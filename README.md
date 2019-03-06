@@ -2,6 +2,8 @@
 
 ## React using state and props, Shopping Cart MVC 2019
 
+https://codesandbox.io/s/v0l1knv1yl
+
 I mean, the simplest example learning how to use the React state, and React props
 
 ( Clearly here i'm not using Redux, this is the next step, just to be clear )
